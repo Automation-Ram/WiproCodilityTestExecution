@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-03T19:21:54 IST" name="Default suite" finished-at="2024-09-03T19:22:07 IST" duration-ms="13172">
+    <groups>
+    </groups>
+    <test started-at="2024-09-03T19:21:54 IST" name="Default test" finished-at="2024-09-03T19:22:07 IST" duration-ms="13172">
+      <class name="com.codilitytestcases.arrpage.ARRTestCases">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:21:54 IST" name="launchBrowser" finished-at="2024-09-03T19:21:57 IST" duration-ms="2808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="testNoResultsFeedbackTestCase4()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:21:57 IST" name="testNoResultsFeedbackTestCase4" finished-at="2024-09-03T19:21:57 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNoResultsFeedbackTestCase4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:21:57 IST" name="tearDown" finished-at="2024-09-03T19:21:57 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:21:57 IST" name="launchBrowser" finished-at="2024-09-03T19:21:59 IST" duration-ms="2088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="testQueryInputAndSubmitButtonPresenceTestCase1()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:21:59 IST" name="testQueryInputAndSubmitButtonPresenceTestCase1" finished-at="2024-09-03T19:21:59 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testQueryInputAndSubmitButtonPresenceTestCase1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:21:59 IST" name="tearDown" finished-at="2024-09-03T19:22:00 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:22:00 IST" name="launchBrowser" finished-at="2024-09-03T19:22:02 IST" duration-ms="2146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="testSearchReturnsAtLeastOneIslandTestCase3()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:22:02 IST" name="testSearchReturnsAtLeastOneIslandTestCase3" finished-at="2024-09-03T19:22:02 IST" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchReturnsAtLeastOneIslandTestCase3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:22:02 IST" name="tearDown" finished-at="2024-09-03T19:22:02 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:22:02 IST" name="launchBrowser" finished-at="2024-09-03T19:22:04 IST" duration-ms="2054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="testSearchReturnsCorrectResultForPortTestCase5()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:22:04 IST" name="testSearchReturnsCorrectResultForPortTestCase5" finished-at="2024-09-03T19:22:05 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchReturnsCorrectResultForPortTestCase5 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:22:05 IST" name="tearDown" finished-at="2024-09-03T19:22:05 IST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:22:05 IST" name="launchBrowser" finished-at="2024-09-03T19:22:07 IST" duration-ms="2170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="testSearchWithEmptyQueryTestCase2()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:22:07 IST" name="testSearchWithEmptyQueryTestCase2" finished-at="2024-09-03T19:22:07 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchWithEmptyQueryTestCase2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.codilitytestcases.arrpage.ARRTestCases@649bec2e]" started-at="2024-09-03T19:22:07 IST" name="tearDown" finished-at="2024-09-03T19:22:07 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.codilitytestcases.arrpage.ARRTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
